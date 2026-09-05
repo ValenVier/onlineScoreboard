@@ -1,0 +1,13 @@
+## Build output (regenerated every time you build, never commit this)
+bin/
+obj/
+
+## IDE-specific files
+.vs/
+.idea/
+*.user
+*.suo
+
+## OS-specific junk
+.DS_Store
+Thumbs.db
